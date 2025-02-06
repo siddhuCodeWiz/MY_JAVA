@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "Frac_Knapsack",
+        "request": "launch",
+        "mainClass": "DAA.Greedy_Algo.Frac_Knapsack",
+        "projectName": "Java_711cc1e4"
+    },
+    {
+        "type": "java",
+        "name": "Launch Java Program",
+        "request": "launch",
+        "mainClass": "JDBC.Practice",
+        "classPaths": [
+            "${workspaceFolder}/JDBC/lib/mysql-connector-j-8.4.0.jar"
+        ]
+    }
+]
+}

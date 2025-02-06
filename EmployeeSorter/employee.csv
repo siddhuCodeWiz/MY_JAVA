@@ -1,0 +1,12 @@
+ID, Name, Age, Department
+1,John Doe,30,Engineering
+2,Jane Smith,25,Marketing
+3,Sam Brown,35,Sales
+4,Anna White,28,Engineering
+5,Tom Black,40,HR
+After Sorting:
+2 Jane Smith 25 Marketing
+4 Anna White 28 Engineering
+1 John Doe 30 Engineering
+3 Sam Brown 35 Sales
+5 Tom Black 40 HR
